@@ -422,7 +422,7 @@ SMODS.Joker{ --Vrejdilum
     loc_txt = {
         ['name'] = 'Vrejdilum',
         ['text'] = {
-            [1] = 'This Joker gives {X:blue,C:white}X0.1{} Chips',
+            [1] = 'This Joker gives {X:blue,C:white}X1{} Chips',
             [2] = 'for every message',
             [3] = 'that contains \"{C:attention}vrej{}\" in',
             [4] = '{C:attention}Puddles of Pudding{} server',
